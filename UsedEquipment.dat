@@ -1,0 +1,5 @@
+CLA00001; EQU00001; Treadmill; 4
+CLA00001; EQU00002; Exercise Bike; 5
+CLA00002; EQU00003; Elliptical Trainer; 8
+CLA00003; EQU00003; Elliptical Trainer; 2
+CLA00004; EQU00004; Rowing Machine; 5
